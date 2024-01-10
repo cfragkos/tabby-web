@@ -5,6 +5,6 @@ services:
         ports:
             - 9090:80
         environment:
-            - DATABASE_URL=mysql://root:K0stas1994@f8kkkw0:3306/default
+            - DATABASE_URL=mysql://root:K0stas1994@f8kkkw0:8464/default
             - PORT=80
             - DEBUG=False
