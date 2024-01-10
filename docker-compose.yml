@@ -8,3 +8,5 @@ services:
             - DATABASE_URL=mysql://user:K0stas1994@144.76.93.5:8465/default
             - PORT=80
             - DEBUG=False
+            - SOCIAL_AUTH_GITHUB_KEY=cf60547877e22a5a765a
+            - SOCIAL_AUTH_GITHUB_SECRET=b23c3ebc39cf59e05c4d2249e5dfff37c21e4fc7
